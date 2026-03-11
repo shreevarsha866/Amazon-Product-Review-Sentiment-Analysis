@@ -1,0 +1,4 @@
+amazon_reviews.csv
+__pycache__/
+*.pkl
+.streamlit/
